@@ -1,6 +1,9 @@
+body {
+    /* overflow: hidden; */
+}
+
 .layout {
     background-image: url(../images/edited\ lamp.jpg);
-    background-attachment: fixed;
     clip-path: polygon(0 0, 25% 15%, 50% 0, 75% 15%, 100% 0, 100% 100%, 0 100%);
 }
 
@@ -23,3 +26,10 @@ h2 {
     text-transform: uppercase;
 }
 
+.navSection {
+    background-image: url(../images/AdobeStock_299978128-2.jpeg);
+}
+
+a {
+    color: #fff;
+}
